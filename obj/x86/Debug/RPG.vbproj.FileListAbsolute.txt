@@ -1,0 +1,23 @@
+C:\Users\Ben\AppData\Local\Temporary Projects\RPG\bin\Debug\RPG.exe
+C:\Users\Ben\AppData\Local\Temporary Projects\RPG\bin\Debug\RPG.pdb
+C:\Users\Ben\AppData\Local\Temporary Projects\RPG\bin\Debug\RPG.xml
+C:\Users\Ben\AppData\Local\Temporary Projects\RPG\obj\x86\Debug\RPG.Game.resources
+C:\Users\Ben\AppData\Local\Temporary Projects\RPG\obj\x86\Debug\RPG.Resources.resources
+C:\Users\Ben\AppData\Local\Temporary Projects\RPG\obj\x86\Debug\RPG.vbproj.GenerateResource.Cache
+C:\Users\Ben\AppData\Local\Temporary Projects\RPG\obj\x86\Debug\RPG.exe
+C:\Users\Ben\AppData\Local\Temporary Projects\RPG\obj\x86\Debug\RPG.xml
+C:\Users\Ben\AppData\Local\Temporary Projects\RPG\obj\x86\Debug\RPG.pdb
+C:\Users\Ben\AppData\Local\Temporary Projects\RPG\obj\x86\Debug\RPG.Form1.resources
+C:\Users\Ben\documents\visual studio 2010\Projects\RPG\RPG\obj\x86\Debug\RPG.exe
+C:\Users\Ben\documents\visual studio 2010\Projects\RPG\RPG\obj\x86\Debug\RPG.xml
+C:\Users\Ben\documents\visual studio 2010\Projects\RPG\RPG\obj\x86\Debug\RPG.pdb
+C:\Users\Stephen\Documents\Visual Studio 2010\Projects\RPG\RPG\obj\x86\Debug\RPG.exe
+C:\Users\Stephen\Documents\Visual Studio 2010\Projects\RPG\RPG\obj\x86\Debug\RPG.xml
+C:\Users\Stephen\Documents\Visual Studio 2010\Projects\RPG\RPG\obj\x86\Debug\RPG.pdb
+C:\Users\Stephen\Documents\Visual Studio 2010\Projects\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\Stephen\Documents\Visual Studio 2010\Projects\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\Stephen\Documents\Visual Studio 2010\Projects\RPG\RPG\bin\Debug\RPG.xml
+C:\Users\Stephen\Documents\Visual Studio 2010\Projects\RPG\RPG\obj\x86\Debug\RPG.Form1.resources
+C:\Users\Stephen\Documents\Visual Studio 2010\Projects\RPG\RPG\obj\x86\Debug\RPG.Game.resources
+C:\Users\Stephen\Documents\Visual Studio 2010\Projects\RPG\RPG\obj\x86\Debug\RPG.Resources.resources
+C:\Users\Stephen\Documents\Visual Studio 2010\Projects\RPG\RPG\obj\x86\Debug\RPG.vbproj.GenerateResource.Cache
